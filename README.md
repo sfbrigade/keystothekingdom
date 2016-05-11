@@ -13,7 +13,7 @@ Goal list:
   - [ ] User Management
   - [ ] store creds in MongoDB
   - [ ] encrypt data at rest
-  - [ ] store immutable audit log (possibly blockchain?)
+  - [ ] store immutable audit log (possibly [blockchain](https://github.com/ConsenSys/truffle)?)
   - [ ] copy to clipboard by button
 - Extension:
   - [ ] Dropdown menu
