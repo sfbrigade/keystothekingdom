@@ -13,7 +13,7 @@ Goal list:
   - [ ] User Management
   - [ ] store creds in MongoDB
   - [ ] encrypt data at rest
-  - [ ] store immutable audit log
+  - [ ] store immutable audit log (possibly blockchain?)
   - [ ] copy to clipboard by button
 - Extension:
   - [ ] Dropdown menu
