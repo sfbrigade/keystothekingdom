@@ -12,6 +12,7 @@ Goal list:
   - [ ] Github Oauth
   - [ ] User Management
   - [ ] store creds in MongoDB
+  - [ ] encrypt data at rest
   - [ ] store immutable audit log
   - [ ] copy to clipboard by button
 - Extension:
